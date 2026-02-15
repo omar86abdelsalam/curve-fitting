@@ -1,1 +1,1 @@
-# curve-fitting
+# Numerical-Methods-Toolkit
